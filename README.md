@@ -18,6 +18,7 @@ Shikhar (Fridays, 9:30 AM to 11:30 AM in RKZ 204)
 E: shikhar.singh@yale.edu
 
 James (Thursdays, 2:00 PM to 4:00 PM in RKZ 204)
+
 E: james.sundquist@yale.edu
 
 A copy of the syllabus is available on Canvas, and uploaded to this website. 
