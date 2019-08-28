@@ -3,13 +3,15 @@
 
 This page contains the html output of code used in section. For any problems with the website please contact Shikhar Singh (shikhar.singh@yale.edu). 
 
-Useful Dates and Times:
+### Useful Dates and Times:
 
-Lectures: Mondays and Wednesdays, 9:00 AM to 10:15 AM in Rosenkranz Hall Room 05
+#### Lectures: 
+Mondays and Wednesdays, 9:00 AM to 10:15 AM in Rosenkranz Hall Room 05
 
-Section: Thursday, 4:00 PM in Rosenkranz Hall (Location TBA)
+#### Section: 
+Thursday, 4:00 PM in Rosenkranz Hall (Location TBA)
 
-Office Hours:
+#### Office Hours:
 Shikhar (Fridays, 9:30 AM to 11:30 AM in RKZ 202)
 E: shikhar.singh@yale.edu
 
