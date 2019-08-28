@@ -12,10 +12,11 @@ Mondays and Wednesdays, 9:00 AM to 10:15 AM in Rosenkranz Hall Room 05
 Thursday, 4:00 PM in Rosenkranz Hall (Location TBA)
 
 #### Office Hours:
-Shikhar (Fridays, 9:30 AM to 11:30 AM in RKZ 202)
+Shikhar (Fridays, 9:30 AM to 11:30 AM in RKZ 204)
+(Sign-up for a slot here: https://calendly.com/shikhar-singh/quantmethods)
 E: shikhar.singh@yale.edu
 
-James (Thursdays, 2:00 PM to 4:00 PM in RKZ 202)
+James (Thursdays, 2:00 PM to 4:00 PM in RKZ 204)
 E: james.sundquist@yale.edu
 
 A copy of the syllabus is available on Canvas, and uploaded to this website. 
