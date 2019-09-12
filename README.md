@@ -9,7 +9,7 @@ This page contains the html output of code used in section. For any problems wit
 Mondays and Wednesdays, 9:00 AM to 10:15 AM in Rosenkranz Hall Room 05
 
 #### Section: 
-Thursday, 4:00 PM in Rosenkranz Hall (Location TBA)
+Thursday, 4:00 PM in Rosenkranz Hall (RKZ 202)
 
 Alert: Sections commence Thursday, September 5. 
 
